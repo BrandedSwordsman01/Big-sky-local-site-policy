@@ -1,0 +1,77 @@
+Big Sky Local Terms of Use
+
+Effective date: 2026-04-06
+
+These Terms of Use govern your use of the Big Sky Local mobile application and related services.
+
+By using Big Sky Local, you agree to these Terms.
+
+1. Purpose of the app
+
+Big Sky Local is intended to provide local information, planning tools, restaurant and activity recommendations, itinerary support, transport-related features, and related convenience tools for Big Sky, Montana.
+
+The app is provided for informational, planning, and convenience purposes only.
+
+2. No guarantee of complete accuracy
+
+We work to keep the app useful and current, but we do not guarantee that all business hours, pricing, availability, deals, partner services, listings, routes, transport options, or other content will always be complete, current, accurate, or available.
+
+Businesses, drivers, restaurants, events, and third-party providers may change their hours, pricing, services, availability, and policies at any time.
+
+Users are responsible for confirming important details directly with the relevant business or provider when needed.
+
+3. Third-party services and partners
+
+Big Sky Local may link to or interact with third-party businesses, drivers, booking platforms, websites, maps, SMS apps, email apps, phone apps, and other external services.
+
+We do not control third-party providers and are not responsible for their conduct, availability, pricing, safety, quality, timeliness, cancellations, errors, or performance.
+
+Any transaction, booking, ride, reservation, or communication with a third party is solely between you and that third party.
+
+4. Proper use
+
+You agree to use Big Sky Local only for lawful and intended purposes.
+
+You agree not to:
+- misuse the app
+- submit false or spam ride requests
+- attempt to interfere with app functionality
+- attempt to gain unauthorized access to systems or services
+- scrape, copy, or extract app content at scale without permission
+- reverse engineer, abuse, or test the app in a way intended to damage, overload, or disrupt the service
+- use the app in a way that could harm other users, businesses, partners, or service providers
+
+We may limit, block, or refuse access to users or devices that abuse the app or attempt to interfere with its operation.
+
+5. No emergency or safety-critical use
+
+Big Sky Local is not intended for emergency use or for medical, legal, transportation safety, or other safety-critical decision-making.
+
+You should not rely on the app as your only source of time-sensitive, safety-related, or emergency information.
+
+6. Premium purchases
+
+The app may offer premium features through Google Play Billing.
+
+Billing, renewals if added later, refunds where applicable, and purchase handling may also be governed by Google Play policies and terms.
+
+7. Disclaimer of warranties
+
+Big Sky Local is provided on an "as is" and "as available" basis to the maximum extent permitted by law.
+
+We make no warranties or guarantees, express or implied, regarding the app’s reliability, availability, accuracy, fitness for a particular purpose, or non-infringement.
+
+8. Limitation of liability
+
+To the maximum extent permitted by law, Big Sky Local and its owner, operators, affiliates, and partners will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, data, goodwill, reservations, transport arrangements, or business opportunities arising out of or related to your use of the app.
+
+To the maximum extent permitted by law, your use of the app and any reliance on app content is at your own risk.
+
+9. Changes to these Terms
+
+These Terms may be updated from time to time. Continued use of the app after changes are posted means you accept the updated Terms.
+
+10. Contact
+
+For support or legal contact regarding the app:
+support.bigskylocal@gmail.com
